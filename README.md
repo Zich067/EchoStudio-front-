@@ -23,10 +23,10 @@ src/pages/Courses 為我負責的部分，謝謝
 ### <font color=#FF5809>五星留言、收藏</font>
 ![](https://i.imgur.com/Klym7Re.png)
 
-留言
+留言   
 ![](https://i.imgur.com/TttF4Gl.png)
 
-收藏
+收藏   
 ![](https://i.imgur.com/q1cyv5H.png)
 
 
